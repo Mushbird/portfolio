@@ -6,7 +6,7 @@
 }
 
 ::selection {
-  background: #348952;
+  background: #fff239;
 }
 
 html,
@@ -37,8 +37,8 @@ body:before {
   content: "";
   width: 100%;
   height: 10px;
-  background: #348952;
-  background: linear-gradient(to right, #348952, #eeff00);
+  background: #fff239;
+  background: linear-gradient(to right, #fff239, #e9fa00);
 }
 
 section {
@@ -57,7 +57,7 @@ a {
 }
 
 a:hover {
-  color: #348952;
+  color: #fff239;
 }
 
 h1 {
@@ -115,7 +115,7 @@ ul > li:before {
   left: 0;
   display: inline-block;
   content: "•";
-  color: #348952;
+  color: #fff239;
 }
 
 .container {
@@ -125,7 +125,7 @@ ul > li:before {
 }
 
 .period-mark {
-  color: #348952;
+  color: #fff239;
 }
 
 .big-paragraph {

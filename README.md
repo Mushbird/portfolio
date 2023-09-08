@@ -1,5 +1,5 @@
 ### portfolio 
-2021년. 새롭게 작성하는. 나의 포트폴리오
+2023년. 업데이트 한! 나의 포트폴리오
 
 ### URL
 https://mushbird.github.io/portfolio/
